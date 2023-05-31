@@ -52,20 +52,16 @@ After you're finished please remove all the comments and instructions!
 
 **[Hello_Microverse]** is a basic webpage for Microverse's project
 
-
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[Responsive]**
 - **[accessible]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 
